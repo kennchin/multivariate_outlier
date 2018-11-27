@@ -9,6 +9,8 @@ I decided to modify some of the plots in the package for the following reasons:
 1) The number in the plot it's not random because they will represent the observation in the dataset
 2) Use ggplot to produce nicer visual
 
+# Example using dataset humus from mvoutlier package:
+
 Original Biplot
 ![Original_bi](/images/bi_orig.png)   
 Modified Biplot
