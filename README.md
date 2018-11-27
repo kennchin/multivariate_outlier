@@ -14,10 +14,15 @@ Original Biplot
 Modified Biplot
 ![own_bi](/images/bi_own.png)
 
-Original
-![Original](/images/uni_orig.png)
-Modified
+Original Uniplot
+![Original](/images/uni_orig.png)   
+Modified Uniplot
 ![Own](/images/uni_own.png)
+
+Original Parallel Plot
+![Original_par](/images/par_orig.png)   
+Modified Parallel Plot
+![mod_par](/images/par_own.png)
 
 
 
