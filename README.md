@@ -9,10 +9,17 @@ I decided to modify some of the plots in the package for the following reasons:
 1) The number in the plot it's not random because they will represent the observation in the dataset
 2) Use ggplot to produce nicer visual
 
+Original Biplot
+![Original_bi](/images/bi_orig.png)
+Modified Biplot
+![own_bi](/images/bi_own.png)
+
 Original
 ![Original](/images/uni_orig.png)
 Modified
 ![Own](/images/uni_own.png)
+
+
 
 
 
