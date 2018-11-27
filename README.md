@@ -10,7 +10,7 @@ I decided to modify some of the plots in the package for the following reasons:
 2) Use ggplot to produce nicer visual
 
 Original Biplot
-![Original_bi](/images/bi_orig.png)
+![Original_bi](/images/bi_orig.png)   
 Modified Biplot
 ![own_bi](/images/bi_own.png)
 
