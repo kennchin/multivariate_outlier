@@ -33,6 +33,17 @@ Modified Parallel Plot
 Screenshot
 ![Demo](/images/demos2.PNG)
 
+- Color Definition:
+  1) Green and yellow are consider to be moderate outlier
+  2) Red are consider to be observations that is greater than 97.5 percentile (extreme outliers)
+
+- Ways to find outlier:
+  - There are two ways to detect the extreme outlier by using the upper graphs: 
+    1) Selecting with cursor(upper left figure) and the information is provided below (lower left figure)
+    2) Look at the parallel plot for odd pattern (upper right figure) and look at the information in the lower right table.
+
+
+
 
 
 
