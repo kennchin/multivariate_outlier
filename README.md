@@ -1,5 +1,5 @@
 # Multivariate Outlier Detection Based on Robust Methods   
-![Click for demo app]()
+[Click for demo app](https://kechin.shinyapps.io/mvoutlier_own/)
 - This project uses the idea of Multivariate Outlier Detection Based on Robust Methods by Peter Filzmoser and Moritz Gschwandtner in the mvoutlier package. 
 - The basic idea of outlier detection is as follow:
 1) A dataset with at least three variables is transformed using the isometric log ratio (ilr)
@@ -26,6 +26,14 @@ Original Parallel Plot
 ![Original_par](/images/par_orig.png)   
 Modified Parallel Plot
 ![mod_par](/images/par_own.png)
+
+# Putting it all together in an app to explore outliers:
+[Click for demo app](https://kechin.shinyapps.io/mvoutlier_own/)
+
+Screenshot
+![Demo](/images/demos.png)
+
+
 
 
 
