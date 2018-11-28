@@ -33,6 +33,9 @@ Modified Parallel Plot
 Screenshot
 ![Demo](/images/demos2.PNG)
 
+- Dataset:
+  - A data frame with 617 observations on the following 44 variables that represent the different humus layer.
+#The Kola Data were collected in the Kola Project (1993-1998, Geological Surveys of Finland (GTK) and Norway (NGU) and Central Kola Expedition (CKE), Russia)   
 - Color Definition:
   1) Green and yellow are consider to be moderate outlier
   2) Red are consider to be observations that is greater than 97.5 percentile (extreme outliers)
