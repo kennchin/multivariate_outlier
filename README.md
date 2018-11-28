@@ -31,7 +31,7 @@ Modified Parallel Plot
 [Click for demo app](https://kechin.shinyapps.io/mvoutlier_own/)
 
 Screenshot
-![Demo](/images/demos2.png)
+![Demo](/images/demos2.PNG)
 
 
 
