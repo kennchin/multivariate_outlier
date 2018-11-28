@@ -39,10 +39,11 @@ Screenshot
 
 - Ways to find outlier:
   - There are two ways to detect the extreme outlier by using the upper graphs: 
-    1) Selecting with cursor(upper left figure) and the information is provided below (lower left figure)
-    2) Look at the parallel plot for odd pattern (upper right figure) and look at the information in the lower right table.
+    1) Selecting with red points with cursor(upper left figure) and the information is provided below (lower left figure)
+    2) Look at the parallel plot for odd pattern(red lines in upper right figure) and look at the information in the lower right table.
 
-
+- Example:
+  - Point 28 in both graph(upper left and upper right) show that this point is dominant in both Ni and Cu (high values). We can confirm this finding if we look at the actual value for observation 28(Cu: 2450,Ni: 1220 which is above the mean of respective columns)
 
 
 
